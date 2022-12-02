@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLoewenguth
 - 👀 I’m interested in web dev and CGI
-- 🌱 I’m currently learning PHP and mySQL
+- 🌱 I’m currently learning Symfony 6
 - 🗣 Fluent in English, intermediate in German
 
 <!--
