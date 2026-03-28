@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JLoewenguth
 - 👀 I’m interested in web dev and CGI
 - 🗣 Fluent in English, intermediate in German
+- https://linktr.ee/je.loewenguth
 
 <!--
 - 📫 How to reach me ... -->
