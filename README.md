@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JLoewenguth
-- 👀 I’m interested in web dev and CGI
-- 🗣 Fluent in English, intermediate in German
-- https://linktr.ee/je.loewenguth
+- 👋 Bonjour, je suis Jérôme Loewenguth
+- 👀 Développeur logiciel et multimédia, modeleur et artiste 3D
+- 🗣  Fluent in English, intermediate in German
+- 📧 Où me trouver : https://linktr.ee/je.loewenguth
 
 <!--
 - 📫 How to reach me ... -->
